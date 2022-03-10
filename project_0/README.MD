@@ -8,21 +8,21 @@
 ### Description
 Get the random number.
 
-:arrow_up:[to contents](https://github.com/Pit37/sf_data_science/tree/main/project_0/README.MD#Chapters)
+:arrow_up:[to contents](https://github.com/Pit37/sf_data_science/tree/main/project_0/README.MD#Contents)
 
 **Options**
 - option 1
 - option 2
 - option 3
 
-:arrow_up:[to contents](https://github.com/Pit37/sf_data_science/tree/main/project_0/README.MD#Chapters)
+:arrow_up:[to contents](https://github.com/Pit37/sf_data_science/tree/main/project_0/README.MD#Contents)
 
 ### Case
 Get the random number.
 
-:arrow_up:[to contents](https://github.com/Pit37/sf_data_science/tree/main/project_0/README.MD#Chapters)
+:arrow_up:[to contents](https://github.com/Pit37/sf_data_science/tree/main/project_0/README.MD#Contents)
 
 ### Conclusion
 Get the random number.
 
-:arrow_up:[to contents](https://github.com/Pit37/sf_data_science/tree/main/project_0/README.MD#Chapters)
+:arrow_up:[to contents](https://github.com/Pit37/sf_data_science/tree/main/project_0/README.MD#Contents)
